@@ -13,15 +13,23 @@ function App() {
           <Dictionary />
         </main>
         <footer>
-          <a
-            className="App-link"
-            href="https://github.com/CodeCassie4169E1/searchingappreact"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Code
-          </a>
-          by Cassie Sichmeller
+          <small className="source">
+            <a
+              href="https://github.com/CodeCassie4169E1/reactweatherapp"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Open-source code
+            </a>{" "}
+            by{" "}
+            <a
+              href="https://www.shecodes.io/graduates/86602-cassie-sichmeller"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Cassie Sichmeller
+            </a>
+          </small>
         </footer>
       </div>
     </div>

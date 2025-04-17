@@ -1,0 +1,16 @@
+.phonetic a {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 5px 10px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 20px;
+  transition: all 150ms ease-in-out;
+}
+.phonetic a:hover {
+  background: white;
+  color: black;
+}
+.phonetic {
+  margin-bottom: 12px;
+}

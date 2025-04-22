@@ -15,7 +15,7 @@ function App() {
         <footer>
           <small className="source">
             <a
-              href="https://github.com/CodeCassie4169E1/reactweatherapp"
+              href="https://github.com/CodeCassie4169E1/searchingappreact"
               target="_blank"
               rel="noreferrer"
             >
